@@ -1,17 +1,5 @@
 const positions = [
   {
-    company: 'Institute for Genomic Biology',
-    position: 'Bioinformatics Research Intern',
-    link: 'https://www.igb.illinois.edu',
-    daterange: 'January 2023 - Present',
-    points: [
-      'Working under Doctor Sandra Zas and Professor Bruce Southey to publish a paper on Differential alternative splicing genes and isoform co-expression networks of Brassica napus under multiple abiotic stresses.',
-      'Creating quantitative visualizations with the MISO software to make sashimi plots to find out about the “version” of a gene that are produced.',
-      'Working with Python in the biopython library and SQL.',
-      'Utlized Libraries such as Pandas, Numpy, Sckilit-Learn, Matplotlib, Seaborn.',
-    ],
-  },
-  {
     company: 'Quant Illinois',
     position: 'Algorithmic Trading Analyst',
     link: 'https://www.quantillinois.com/',

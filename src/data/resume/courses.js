@@ -55,35 +55,17 @@ const courses = [
     university: 'UIUC',
   },
   {
-    title: 'Calculus 1 & 2',
-    number: 'Math',
-    link: 'https://apstudents.collegeboard.org/courses/ap-calculus-bc',
-    university: 'Saratoga High School',
-  },
-  {
     title: 'Accountancy I',
     number: 'ACCY 201',
     link: 'https://giesbusiness.illinois.edu/course/ACCY/201',
     university: 'UIUC',
-  },,,,
-  {
-    title: 'Microeconomic Principles',
-    number: 'ECON 102',
-    link: 'https://blogs.illinois.edu/view/6869/486316',
-    university: 'UIUC',
   },
   {
-    title: 'Macroeconomic Principles',
-    number: 'ECON 103',
-    link: 'https://blogs.illinois.edu/view/6869/486389',
+    title: 'Investment & Portfolio Management',
+    number: 'FIN 411',
+    link: 'https://giesbusiness.illinois.edu/course/FIN/411',
     university: 'UIUC',
   },
-  {
-    title: 'Ethics & Policy for Data Science',
-    number: 'IS 467',
-    link: 'https://ischool.illinois.edu/degrees-programs/courses/is467',
-    university: 'UIUC',
-  },,
   {
     title: 'Algorithms and Data Structures for Data Science',
     number: 'CS 277',
@@ -95,7 +77,7 @@ const courses = [
     number: 'CS 307',
     link: 'https://cs.illinois.edu/academics/courses/cs307',
     university: 'UIUC',
-  },,
+  },
   {
     title: 'Applied Financial Analysis',
     number: 'FIN 464',
@@ -103,9 +85,9 @@ const courses = [
     university: 'UIUC',
   },
   {
-    title: 'IT for Networked Organization - Blockchain and Decentralized Finance',
-    number: 'BADM 350',
-    link: 'https://giesbusiness.illinois.edu/course/BADM/350',
+    title: 'Business Analytics I',
+    number: 'BADM 210',
+    link: 'https://giesbusiness.illinois.edu/course/BADM/210',
     university: 'UIUC',
   },
 ];

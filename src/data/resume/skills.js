@@ -8,44 +8,44 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
-    title: 'Node.JS',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'React',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 3,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Git/Mercurial',
-    competency: 3,
+    title: 'Git',
+    competency: 4,
     category: ['Tools'],
   },
   {
-    title: 'Google Cloud Compute',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
+    title: 'Bash',
+    competency: 3,
+    category: ['Languages', 'Tools'],
+  },
+  {
+    title: 'Amazon Web Services',
+    competency: 3,
+    category: ['Web Development', 'Tools'],
+  },
+  {
+    title: 'Financial Statement Analysis',
+    competency: 4,
+    category: ['Finance'],
+  },
+  {
+    title: 'Equity Valuation',
+    competency: 4,
+    category: ['Finance'],
+  },
+  {
+    title: 'Data Mining',
+    competency: 4,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Java',
+    competency: 4,
+    category: ['Language'],
+  },
+  {
+    title: 'Data Visualization',
+    competency: 4,
+    category: ['Data Science', 'Data Engineering'],
   },
   {
     title: 'Numpy',
@@ -53,14 +53,9 @@ const skills = [
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
-    title: 'Numba',
+    title: 'bloomberg',
     competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 1,
-    category: ['Data Science', 'Python'],
+    category: ['Finance'],
   },
   {
     title: 'Jupyter',
@@ -69,22 +64,12 @@ const skills = [
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 4,
+    competency: 2,
     category: ['Web Development', 'Languages'],
   },
   {
-    title: 'Python',
-    competency: 5,
-    category: ['Languages', 'Python'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
     title: 'R',
-    competency: 4,
+    competency: 2,
     category: ['Languages'],
   },
   {
@@ -108,13 +93,8 @@ const skills = [
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
-    title: 'Pylint',
-    competency: 2,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
     title: 'NLTK',
-    competency: 2,
+    competency: 1,
     category: ['Data Engineering', 'Python'],
   },
   {
@@ -123,22 +103,17 @@ const skills = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'GGplot',
-    competency: 4,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
     title: 'Tableau',
     competency: 4,
     category: ['Data Science', 'Web Development'],
   },
   {
     title: 'Scipy',
-    competency: 2,
+    competency: 3,
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Excel',
+    title: 'Excel / Powerpoint',
     competency: 5,
     category: ['Databases', 'Tools'],
   },

@@ -11,7 +11,7 @@ const Main = (props) => (
   <HelmetProvider>
     <Analytics />
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Tarun Bathini" defaultTitle="Tarun Bathini" defer={false}>
+    <Helmet titleTemplate="%s | Jun Lee" defaultTitle="Jun Lee" defer={false}>
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
     </Helmet>
@@ -39,7 +39,7 @@ Main.defaultProps = {
   children: null,
   fullPage: false,
   title: null,
-  description: "Tarun Bathini's personal website.",
+  description: "Jun Lee's personal website.",
 };
 
 export default Main;

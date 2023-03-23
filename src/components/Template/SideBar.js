@@ -12,16 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Tarun Bathini</h2>
-        <p><a href="mailto:bathinitarun@gmail.com">bathinitarun@gmail.com</a></p>
+        <h2>Junseong Lee (Jun) </h2>
+        <p><a href="mailto:junseong.lee652@gmail.com">junseong.lee652@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Tarun. I like Tennis, Blockchain and Podcasts.
-        I am a <a href="https://illinois.edu">University of Illinois</a> student, Vernon Hills High School Alumni, and
-        the co-founder and CTO of <a href="https://tbath18.github.io/Scroll.github.io/">SCROLL</a>.
+      <p>Hi, I&apos;m Jun. I am currently studying Finance + Data Science at <a href="https://illinois.edu">University of Illinois</a>. My main interests include financial forecasting, algorithmic trading, and back-end development.
       </p>
       <ul className="actions">
         <li>
@@ -32,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Tarun Bathini <Link to="/">https://www.linkedin.com/in/tarunbathini/</Link>.</p>
+      <p className="copyright">&copy; Jun Lee <Link to="/">https://www.linkedin.com/in/junseong-lee/</Link>.</p>
     </section>
   </section>
 );

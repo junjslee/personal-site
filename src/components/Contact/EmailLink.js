@@ -9,7 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'bathinitarun',
+  'junseong.lee652',
 ];
 
 const useInterval = (callback, delay) => {

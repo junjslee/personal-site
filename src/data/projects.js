@@ -3,8 +3,9 @@ const data = [
   {
     title: 'SPX Prediction using Macro-economic Indicators ',
     subtitle: 'Individual Project',
-    link: 'https://github.com/junjslee/PythonProject-SPX-market-prediction-using-CPI-T10Y3M-UNRATE/blob/master/Python-SPX_DataMining (factor%3DUNRATE%2CCPI%2C10yrTreasury).ipynb',
-    date: 'Nov 2022 - Jan 2023',
+    link: 'https://github.com/junjslee/PythonProject-SPX-market-prediction-using-MacroEconomic-Indicators/blob/master/Python-SPX%20Prediction%20using%20Macro-Economic%20Indicators.ipynb',
+    image: '/images/projects/spx_project.jpg',
+    date: '2023-11-09',
     desc:
       'Extracted, cleaned, and analyzed 15+ economic datasets drawn from TradingView to search for indicators leading the stock market. '
       + 'Created Pearson-correlation Heatmap to identify correlations and plots to confirm trends. '
@@ -13,9 +14,9 @@ const data = [
   {
     title: 'Business Analytics I Academic Project',
     subtitle: 'Identifying Factors Affecting College Admission Rate in Chicago using Tableau',
-    link: '',
-    image: '/images/projects/NLP.jpg',
-    date: 'Mar 2022',
+    // link: '',
+    image: '/images/projects/badm_210_academic_project.jpg',
+    date: '2023-03-01',
     desc:
       'Developed a comprehensive Tableau Story with 3 visualization worksheets (bar chart, tree map, geographic heatmap) by analyzing Chicago school dataset in .csv format. '
       + 'Identified positive correlation with college admission in categories of school type, average SAT/ACT score, school district location, and school rating. ',
