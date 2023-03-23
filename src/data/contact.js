@@ -7,17 +7,17 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://www.instagram.com/tbath18/',
+    link: 'https://www.instagram.com/jsn.lx/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/tarunbathini/',
+    link: 'https://www.linkedin.com/in/junseong-lee/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:bathinitarun@gmail.com',
+    link: 'mailto:junseong.lee652@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

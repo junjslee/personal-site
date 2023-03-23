@@ -3,9 +3,9 @@
 
 const skills = [
   {
-    title: 'Javascript',
-    competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    title: 'Python',
+    competency: 5,
+    category: ['Languages', 'Python'],
   },
   {
     title: 'Node.JS',

@@ -1,14 +1,14 @@
 const degrees = [
   {
     school: 'University of Illinois at Urbana Champaign',
-    degree: 'B.S. Data Science and Information Science | James Scholar Honors Student',
+    degree: "B.S. Finance + Data Science, Minor in Computer Science | Dean's List FA22",
     link: 'https://illinois.edu',
     year: 2025,
   },
   {
-    school: 'Vernon Hills High School',
+    school: 'Saratoga High School',
     degree: 'High School',
-    link: 'https://www.d128.org/vhhs',
+    link: 'https://www.saratogahigh.org/',
     year: 2021,
   },
 ];
