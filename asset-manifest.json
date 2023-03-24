@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.12955ccb.css",
+    "main.js": "/personal-site/static/js/main.efaa4fd8.js",
+    "static/js/851.e0f25230.chunk.js": "/personal-site/static/js/851.e0f25230.chunk.js",
+    "static/js/117.3a4982ea.chunk.js": "/personal-site/static/js/117.3a4982ea.chunk.js",
+    "static/js/478.5419beed.chunk.js": "/personal-site/static/js/478.5419beed.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/personal-site/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.fc8dd139.chunk.js": "/personal-site/static/js/161.fc8dd139.chunk.js",
+    "static/js/671.f359c428.chunk.js": "/personal-site/static/js/671.f359c428.chunk.js",
+    "static/js/191.07584825.chunk.js": "/personal-site/static/js/191.07584825.chunk.js",
+    "static/js/209.04592873.chunk.js": "/personal-site/static/js/209.04592873.chunk.js",
+    "static/js/625.7fac6400.chunk.js": "/personal-site/static/js/625.7fac6400.chunk.js",
+    "index.html": "/personal-site/index.html",
+    "static/media/about.md": "/personal-site/static/media/about.9193b1d70073232d70c9.md",
+    "main.12955ccb.css.map": "/personal-site/static/css/main.12955ccb.css.map",
+    "main.efaa4fd8.js.map": "/personal-site/static/js/main.efaa4fd8.js.map",
+    "851.e0f25230.chunk.js.map": "/personal-site/static/js/851.e0f25230.chunk.js.map",
+    "117.3a4982ea.chunk.js.map": "/personal-site/static/js/117.3a4982ea.chunk.js.map",
+    "478.5419beed.chunk.js.map": "/personal-site/static/js/478.5419beed.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/personal-site/static/js/922.950c5cf1.chunk.js.map",
+    "161.fc8dd139.chunk.js.map": "/personal-site/static/js/161.fc8dd139.chunk.js.map",
+    "671.f359c428.chunk.js.map": "/personal-site/static/js/671.f359c428.chunk.js.map",
+    "191.07584825.chunk.js.map": "/personal-site/static/js/191.07584825.chunk.js.map",
+    "209.04592873.chunk.js.map": "/personal-site/static/js/209.04592873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12955ccb.css",
+    "static/js/main.efaa4fd8.js"
+  ]
+}
