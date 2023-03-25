@@ -40,7 +40,7 @@ const skills = [
   {
     title: 'Java',
     competency: 4,
-    category: ['Language'],
+    category: ['Languages'],
   },
   {
     title: 'Data Visualization',
@@ -100,7 +100,7 @@ const skills = [
   {
     title: 'Tableau',
     competency: 4,
-    category: ['Data Science', 'Web Development'],
+    category: ['Data Science', 'Tools'],
   },
   {
     title: 'Scipy',
