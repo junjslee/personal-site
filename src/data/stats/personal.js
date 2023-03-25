@@ -27,7 +27,13 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
+    link: 'https://www.google.com/maps/d/u/0/edit?mid=1GlCP4nnKVpIZVVK4kFPOucnl2kp4N4Y&usp=sharing',
     value: 8,
+  },
+  {
+    key: 'location',
+    label: 'Hometown',
+    value: 'Seoul, South Korea',
   },
   {
     key: 'location',

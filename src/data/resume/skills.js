@@ -44,7 +44,7 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Data Engineering'],
   },
   {
@@ -71,11 +71,6 @@ const skills = [
     title: 'R',
     competency: 2,
     category: ['Languages'],
-  },
-  {
-    title: 'Data Visualization',
-    competency: 5,
-    category: ['Data Science', 'Javascript'],
   },
   {
     title: 'Pandas',
