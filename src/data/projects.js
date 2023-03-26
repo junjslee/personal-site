@@ -9,7 +9,7 @@ const data = [
     desc:
       'Developed a facial recognition system using principal component analysis (PCA) for dimensionality reduction and achieved an accuracy of over 90%. '
       + 'Implemented eigenvectors/eigenfaces analysis to identify the most important features of facial images and reduce the number of dimensions in the dataset. '
-      + 'Analyzed the principal component face to gain insights into the underlying structure of the facial features and improve the performance of the facial recognition system.'
+      + 'Analyzed the principal component face to gain insights into the underlying structure of the facial features and improve the performance of the facial recognition system.',
   },
   {
     title: 'SPX Prediction using Macro-economic Indicators ',
