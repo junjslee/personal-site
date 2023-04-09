@@ -5,7 +5,9 @@ const positions = [
     link: 'https://www.quantillinois.com/',
     daterange: 'Jan 2023 - Present',
     points: [
-      'Utilizing TD Ameritrade API tool to develop momentum trading strategy algorithm using MACD, RSI, OBV, VI, and Ichimoku Cloud',
+      'Developing back-end algorithm for momentum trading strategy using indicators such as MACD and Ichimoku Cloud.',
+      'Utilizing python and Lean (open source trading engine) for strategy research and back-testing.',
+      'Used Docker to create containers and images for deployment pipeline.',
     ],
   },
   {
@@ -16,7 +18,7 @@ const positions = [
     points: [
       'Create an Excel report of daily market news summary and portfolio performance to keep up with market trends.',
       'Researched 20+ companies 6 hours per week by analyzing financial statements, industry and competitor data. Provided business and financial insight to 30+ members and external investors.',
-      'Formed equity valuation summary of Keysight Technologies, Nucor, Delta Airlines, and Google by creating P/E, EBITDA, and DCF model to forecast financial returns and explain our investment rationale, marking 11.2% ROI',
+      'Formed equity valuation summary of Keysight Technologies, Nucor, Delta Airlines, and Google by creating P/E, EBITDA, and DCF model to forecast financial returns and explain our investment rationale, marking 11.2% ROI.',
     ],
   },
   {
