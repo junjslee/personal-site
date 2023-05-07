@@ -37,7 +37,7 @@ I am a Co-Founder of a Start-up called SCROLL where we aim to innovative a app t
 - Going skydiving in Dubai
 - Seeing the Northern Lights
 
-# Religious Beliefs: 
+# My Religious Belief: 
 
 When asked about my religion, I often find it challenging to put it into a single label, as my 'religion' is a blend of various beliefs and philosophies that resonate with me on a deeper level. However, at the core of my religious belief is the idea that we are all connected in this world, and that there is a higher power that exists beyond us. This belief centers around the ideas of interconnectedness and self-discovery.
 
