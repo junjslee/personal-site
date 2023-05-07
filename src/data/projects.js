@@ -26,7 +26,7 @@ const data = [
     title: 'SPX Prediction using Macro-economic Indicators ',
     subtitle: 'Individual Project',
     link: 'https://github.com/junjslee/PythonProject-SPX-market-prediction-using-MacroEconomic-Indicators/blob/master/Python-SPX%20Prediction%20using%20Macro-Economic%20Indicators.ipynb',
-    image: '/images/projects/spx_project_corr.jpg',
+    image: '/images/projects/spx_project_pic.jpg',
     date: '2023-11-09',
     desc:
       'Extracted, cleaned, and analyzed 15+ economic datasets drawn from TradingView to search for indicators leading the stock market. '
