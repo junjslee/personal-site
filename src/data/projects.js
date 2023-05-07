@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Analyzing the Impact of Audio Features, Genre, and Charting Metrics on Song Popularity: A Data Driven Study on Spotify Data',
+    subtitle: 'Providing Insights for Entertainment Industry Growth Strategies: A Descriptive, Inferential, and Regression Analysis',
+    link: 'https://github.com/junjslee/sporify_data_science/blob/main/spotify_project.ipynb',
+    image: '/images/projects/spotify_project.jpg',
+    date: '2023-04-30',
+    desc:
+      'Conducted descriptive statistics and inferential analysis on Spotify data to identify correlations and differences between audio features and song popularity on the Spotify charts. '
+      + 'Utilized linear and logistic regression models to identify significant predictors of the popularity score of a song, including danceability, energy, loudness, and genre. '
+      + 'Provided insights and potential growth strategies for music artists, record labels, and streaming services to optimize their content and engage their users based on the findings from the analysis.',
+  },
+  {
     title: 'Facial Recognition using Principal Component Analysis (PCA)',
     subtitle: 'Analyzing Eigenfaces and Dimensionality Reduction Techniques',
     link: 'https://github.com/junjslee/facial_recognition_pca/blob/main/PCA-FacialRecognition.ipynb',
