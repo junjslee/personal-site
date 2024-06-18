@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'University of Illinois at Urbana Champaign',
-    degree: "B.S. Finance + Data Science, Minor in Computer Science",
+    degree: 'B.S. Finance + Data Science, Minor in Computer Science',
     link: 'https://illinois.edu',
     year: 2025,
   },
