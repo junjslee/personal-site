@@ -5,7 +5,7 @@ const data = [
     subtitle: 'Leveraging Flask and Google Sheets API for Efficient Event Management',
     link: 'https://github.com/junjslee/automation',
     image: '/images/projects/umtautomation.png',
-    date: 'Feb 2024 - May 2024',
+    date: 'May 2024',
     desc:
       'Designed and implemented a web application using Flask to provide an intuitive interface for event organizers. Utilized Google Forms to collect registrations, automatically storing registration data in a structured Google Sheet. Used OAuth and Google API to securely extract sensitive information into a Dataframe for flexible manipulation. Automated the process of sending personalized emails to participants using SMTP library. '
       + 'Reduced manual routine tasks and improved accuracy and timeliness of communication, enhancing participant experience and engagement. '
