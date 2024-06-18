@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Unit Ministry Team Automated Email Dispatch Web Application',
+    subtitle: 'Leveraging Flask and Google Sheets API for Efficient Event Management',
+    link: 'https://github.com/junjslee/automation',
+    image: '/images/projects/umtautomation.png',
+    date: 'Feb 2024 - May 2024',
+    desc:
+      'Designed and implemented a web application using Flask to provide an intuitive interface for event organizers. Utilized Google Forms to collect registrations, automatically storing registration data in a structured Google Sheet. Used OAuth and Google API to securely extract sensitive information into a Dataframe for flexible manipulation. Automated the process of sending personalized emails to participants using SMTP library. '
+      + 'Reduced manual routine tasks and improved accuracy and timeliness of communication, enhancing participant experience and engagement. '
+      + 'Technologies: Google Cloud, pandas, Flask, HTML, CSS, Javascript, API, OAuth ',
+  },
+  {
     title: 'Analyzing the Impact of Audio Features, Genre, and Charting Metrics on Song Popularity: A Data Driven Study on Spotify Data',
     subtitle: 'Providing Insights for Entertainment Industry Growth Strategies: A Descriptive, Inferential, and Regression Analysis',
     link: 'https://github.com/junjslee/sporify_data_science/blob/main/spotify_project.ipynb',

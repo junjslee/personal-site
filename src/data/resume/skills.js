@@ -13,8 +13,8 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Bash',
-    competency: 3,
+    title: 'Linux',
+    competency: 4,
     category: ['Languages', 'Tools'],
   },
   {
@@ -53,24 +53,9 @@ const skills = [
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
-    title: 'bloomberg',
-    competency: 2,
-    category: ['Finance'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 5,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 2,
+    title: 'HTML + CSS',
+    competency: 3,
     category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
   },
   {
     title: 'Pandas',
@@ -88,9 +73,9 @@ const skills = [
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
-    title: 'NLTK',
-    competency: 1,
-    category: ['Data Engineering', 'Python'],
+    title: 'Javascript',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Seaborn',
@@ -99,7 +84,7 @@ const skills = [
   },
   {
     title: 'Tableau',
-    competency: 4,
+    competency: 3,
     category: ['Data Science', 'Tools'],
   },
   {

@@ -33,12 +33,12 @@ const data = [
   {
     key: 'location',
     label: 'Hometown',
-    value: 'Seoul, South Korea',
+    value: 'Saratoga, California',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Saratoga, CA',
+    value: 'Champaign, Illinois',
   },
 ];
 
