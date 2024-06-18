@@ -1,8 +1,8 @@
 const positions = [
   {
-    company: 'U.S. Army, 2nd Infantry Division Headquarters and Headquarters Battalion',
-    position: 'Private First Class',
-    link: 'https://www.2id.korea.army.mil/',
+    company: 'Eighth United States Army, 2nd Infantry Division',
+    position: 'Corporal',
+    link: 'https://8tharmy.korea.army.mil/site/index.asp',
     daterange: 'Oct 2023 - Present',
     points: [
       'Automated a manual event management system for over 2,000 individuals by developing a user-friendly registration interface to collect and store PII (personally identifiable information) on a secure cloud database and implementing a Python backend framework with API integration to leverage database for event communication.',
@@ -12,7 +12,7 @@ const positions = [
   {
     company: 'SCROLL',
     position: 'Co-founder and developer',
-    link: 'https://tbath18.github.io/Scroll.github.io/',
+    link: 'https://docs.google.com/presentation/d/e/2PACX-1vTvcFHMm8WwhyfSCAYWN-WNu_O64lV-3Y_PdjJUS4nOeUwnOQdF1X0BIURTD2bange48z66KSTmxLWv/pub?start=true&loop=false&delayms=3000&slide=id.p',
     daterange: 'Dec 2022 - Oct 2023',
     points: [
       'Technologies used for prototype development: HTML, CSS, Javascript, Python, Flask, Jinja2, OpenAI API, GROBID, Jinja2',

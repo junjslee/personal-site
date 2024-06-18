@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Jun. I am currently studying Finance + Data Science at <a href="https://illinois.edu">University of Illinois</a>. My main interests include financial forecasting, algorithmic trading, and back-end development.
+      <p>Hi, I&apos;m Jun. I am currently studying Finance + Data Science + Computer Science at <a href="https://illinois.edu">University of Illinois</a>. My main interests include cloud computing solutions, computer networks and systems architecture, and full stack development.
       </p>
       <ul className="actions">
         <li>
