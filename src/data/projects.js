@@ -7,8 +7,8 @@ const data = [
     image: '/images/projects/umtautomation.png',
     date: 'May 2024',
     desc:
-      'Designed and implemented a web application using Flask to provide an intuitive interface for event organizers. Utilized Google Forms to collect registrations, automatically storing registration data in a structured Google Sheet. Used OAuth and Google API to securely extract sensitive information into a Dataframe for flexible manipulation. Automated the process of sending personalized emails to participants using SMTP library. '
-      + 'Reduced manual routine tasks and improved accuracy and timeliness of communication, enhancing participant experience and engagement. '
+      'Designed and built a web application using Flask and frontend languages, following 3-tier architecture principles to provide an intuitive interface for event organizers. Utilized Google Forms to collect registrations, automatically storing data on the Google Cloud Platform. Used OAuth and the Google Sheets API to securely extract data into a pandas DataFrame for flexible manipulation and analysis. '
+      + 'Automated personalized email communication to participants using the Python SMTP library with TLS encryption, improving data security. Enhanced participant experience and engagement by streamlining manual processes and ensuring efficient information flow. '
       + 'Technologies: Google Cloud, pandas, Flask, HTML, CSS, Javascript, API, OAuth ',
   },
   {

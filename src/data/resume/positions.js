@@ -5,8 +5,9 @@ const positions = [
     link: 'https://8tharmy.korea.army.mil/site/index.asp',
     daterange: 'Oct 2023 - Present',
     points: [
-      'Automated a manual event management system for over 2,000 individuals by developing a user-friendly registration interface to collect and store PII (personally identifiable information) on a secure cloud database and implementing a Python backend framework with API integration to leverage database for event communication.',
-      'Decreased a 2-week labor task to under 1 minute. Received Army Achievement Medal in recognition of my work.',
+      'Assigned unit: 8th Army, 2nd Infantry Division, Headquarters and Headquarters Battalion, Headquarters Support Company, MOS 56M',
+      'Designed and developed an automated event management system following the 3-tier architecture, effectively managing over 2000 participants for the unit ministry team. Created a user-friendly registration interface to collect and securely store PII on GCP. Implemented a Python backend with Flask and Google Cloud API, streamlining event communication and reducing a 2-week manual process to under 1 minute. ',
+      'Awarded Army Achievement Medal in recognition of enhancing operational efficiency and communication within the unit.',
     ],
   },
   {
@@ -19,6 +20,7 @@ const positions = [
       'Created an innovative prototype leveraging OpenAI API and prompt engineering to transform information (datasets, lectures, textbooks) into an easily digestible content through a social media-style feed.',
       'Collaborated with professors and PhD students from the University of Illinois Computer Science, Information Science, and Business departments.',
       'Participated in two pitch competitions, securing over $1,250 in funding. Successfully trademarked the company and developed a POC (proof of concept) aimed at advertising to educational professionals.',
+      'Parted the team to join the military.'
     ],
   },
   {
