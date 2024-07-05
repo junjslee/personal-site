@@ -20,7 +20,7 @@ const positions = [
       'Created an innovative prototype leveraging OpenAI API and prompt engineering to transform information (datasets, lectures, textbooks) into an easily digestible content through a social media-style feed.',
       'Collaborated with professors and PhD students from the University of Illinois Computer Science, Information Science, and Business departments.',
       'Participated in two pitch competitions, securing over $1,250 in funding. Successfully trademarked the company and developed a POC (proof of concept) aimed at advertising to educational professionals.',
-      'Parted the team to join the military.'
+      'Parted the team to join the military.',
     ],
   },
   {
